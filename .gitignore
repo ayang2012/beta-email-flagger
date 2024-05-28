@@ -168,3 +168,6 @@ pyproject.toml
 
 # Ignore environment variables file
 .env
+
+#
+secrets/
