@@ -171,3 +171,4 @@ pyproject.toml
 
 #
 secrets/
+data/
